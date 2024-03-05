@@ -8,8 +8,4 @@ package com.github.zipcodewilmington;
  */
 public class Hangman {
 
-
-
-    public
-
 }
